@@ -1,0 +1,9 @@
+node_modules
+package-lock.json
+
+terraform/**.terraform/*
+terraform/**.terraform/*
+terraform/*.tfstate
+terraform/*.tfstate.*
+terraform/*.log
+terraform/*.tfvars
